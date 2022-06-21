@@ -6,6 +6,9 @@
   <a href="https://vk.com/syn_maminoj_podrygi">
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
   </a>
+</div>
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=SilverWolf2k20&style=flat-square&color=blue" alt=""/>
 </div>
 
@@ -13,9 +16,9 @@
 
 ---
 
-### :man_technologist: Обо мне :
+### :man_technologist: Обо мне:
 
-Я говнокодер <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России.
+Я говнокодер <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> и России.
 - :telescope: Я не учусь на инжинера-программиста и пишу простые и не очень программы.
 - :seedling: Изучаю C++.
 - :zap: В свободное время читаю статьи на Habr и программирую.
@@ -33,7 +36,7 @@
 
 ---
 
-### :fire: My Stats :
+### :fire: Моя статиcтика:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SilverWolf2k20&theme=monokai)
-
+[![SilverWolf2k20](https://github-readme-stats.vercel.app/api/top-langs/?username=SilverWolf2k20&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
