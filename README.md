@@ -5,8 +5,8 @@
 </div>
 
 <div id="badges">
-  <a href="[your-youtube-URL](https://vk.com/syn_maminoj_podrygi)">
-    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="VK Badge"/>
+  <a href="https://vk.com/syn_maminoj_podrygi">
+    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=SilverWolf2k20&style=flat-square&color=blue" alt=""/>
