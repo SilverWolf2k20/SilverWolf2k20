@@ -20,7 +20,7 @@
 
 Я говнокодер <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России.
 - :telescope: Я учусь на инжинера-программиста и пишу простые и не очень программы.
-- :seedling: Изучаю C++.
+- :seedling: Изучаю C++, C#.
 - :zap: В свободное время читаю статьи на Habr и программирую.
 
 ---
@@ -31,7 +31,7 @@
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
 </div>
 
 ---
