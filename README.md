@@ -20,12 +20,12 @@
 
 Я говнокодер <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России.
 - :telescope: Я учусь на инжинера-программиста и пишу простые и не очень программы.
-- :seedling: Изучаю C++, C#.
+- :seedling: Изучаю C++ и C#.
 - :zap: В свободное время читаю статьи на Habr и программирую.
 
 ---
 
-### :hammer_and_wrench: Языки и инструменты:
+### 💻 Языки:
 
 <!-- https://github.com/devicons/devicon/tree/master/icons -->
 
@@ -36,7 +36,18 @@
 
 ---
 
-### :fire: Моя статиcтика:
+### 🛠 Инструменты:
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="netcore" alt="netcore" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="visualstudio" alt="visualstudio" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+### :fire: Статиcтика:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SilverWolf2k20&theme=monokai)
 [![SilverWolf2k20](https://github-readme-stats.vercel.app/api/top-langs/?username=SilverWolf2k20&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
