@@ -18,8 +18,7 @@
 
 ### :man_technologist: Обо мне:
 
-Я говнокодер <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России.
-- :telescope: Я учусь на инжинера-программиста и пишу простые и не очень программы.
+Я говнокодер <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - :seedling: Изучаю C++ и C#.
 - :zap: В свободное время читаю статьи на Habr и программирую.
 
