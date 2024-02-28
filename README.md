@@ -30,6 +30,7 @@ I'm a shit coder <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="visualstudio" alt="visualstudio" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="visualstudio" alt="visualstudio" width="40" height="40"/>&nbsp;
 </div>
 
 ---
@@ -45,6 +46,16 @@ I'm a shit coder <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="visualstudio" alt="visualstudio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="visualstudio" alt="visualstudio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="visualstudio" alt="visualstudio" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+### 💽 OS:
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original-wordmark.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
 </div>
 
 ---
